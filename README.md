@@ -6,9 +6,11 @@
   <img align='center' height='60' width='60' src='https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg'/>
 </div> 
 
-<br>
+<br><br>
 
 **Link da aplicação:** [Link para a aplicação](https://replit.com/@lucasffguanabar/CRUDSQlite)
+
+<br>
 
 ## Resumo do Projeto
 
