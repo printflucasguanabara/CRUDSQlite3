@@ -1,4 +1,4 @@
-# Relatório de Desenvolvimento
+# CRUD utilizando PHP como linguagem de back-end e SQLite3 como banco de dados.  
 
 ## Projeto desenvolvido com 
 <div>
